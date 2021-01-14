@@ -7,6 +7,6 @@ exports.paginaInicial = (req, res) => {
 };
 
 exports.trataPost = (req, res) => {
-  res.send(req.body);
+  res.send(req.body)
   return;
 };
