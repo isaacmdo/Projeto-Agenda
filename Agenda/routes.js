@@ -3,16 +3,13 @@
 const express = require('express'); //<< O arquivo usa o express
 const route = express.Router(); //<< O arquivo usa a função Router do express
 const homeController = require('./src/controllers/homeController');//<<importamos o camingo do arquivo
-const contatoController = require('./src/controllers/contatoController');
-
-
-
+const loginController = require('./src/controllers/loginController');//<<importamos o camingo do arquivo
 
 //Rotas da home
-route.get('/', homeController.paginaInicial);
-route.post('/', homeController.trataPost);
+route.get('/', homeController.index);
 
-//Rotas de contato
-route.get('/contato', contatoController.paginaInicial)
+//Rotas de login
+route.get('/login/index', loginController.index);
+route.post('/login/register', loginController.register);
 
 module.exports = route;
