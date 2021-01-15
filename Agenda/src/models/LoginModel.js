@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
-const validator = require('validator')
+const validator = require('validator');
+//Cryptografia de senha no banco de dados
+const bcryptjs = require('bcryptjs');
 
 //Modelagem de dados/ Obj com a config dos dados que queremos
 //Estamos montando um schema pois o mongoDB e um banco nocicle, então ele não como os nossos dados serão armazenados
@@ -21,11 +23,24 @@ class Login {
     this.valida();
     if(this.errors.length > 0) return;
 
+    await this.usersExists();
+
+    if(this.errors.length > 0) return;
+
+    const salt = bcryptjs.genSaltSync();
+    this.body.password = bcryptjs.hashSync(this.body.password, salt);
+
     try {  
     this.user = await LoginModel.create(this.body);
     } catch(e) {
       console.log(e)
     }
+  }
+
+  async usersExists() {
+    const user = await LoginModel.findOne({ email: this.body.email });
+
+    if(user) this.errors.push('Usuário já existe.')
   }
 
   valida(){
