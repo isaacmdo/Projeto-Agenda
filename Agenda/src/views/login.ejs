@@ -39,7 +39,7 @@
               <h4>Entrar no sistema</h4>
               <p>Se voce já tem uma conta, faça login no formulario abaixo:</p>
               <form class="form-login" action="/login/login" method="POST">
-                <input type="hidden" name="_csrf" value=<% csrfToken %> >
+                <input type="hidden" name="_csrf" value=<%= csrfToken %> >
                 <div class="form-group">
                   <label>Seu email</label>
                   <input type="email" class="form-control" name="email">
