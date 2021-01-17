@@ -11,7 +11,11 @@ const app = express();
 //Mongoose e qual vai modelar os dados da base de dados, e garantir que eles seram salvos da forma que queremos
 //Mongoose retorna uma promise
 const mongoose = require('mongoose');
-mongoose.connect(process.env.CONNECTIONSTRING, { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect(process.env.CONNECTIONSTRING, { 
+  useNewUrlParser: true, 
+  useUnifiedTopology: true, 
+  useFindAndModify: false 
+})
   .then(() => {
     console.log('Conectei a base de dados');
     app.emit('Pronto');
