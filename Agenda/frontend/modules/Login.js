@@ -1,3 +1,5 @@
+import e from 'express';
+import { DocumentProvider } from 'mongoose';
 import validator from 'validator';
 
 export default class Login {
@@ -24,16 +26,23 @@ export default class Login {
     let error = false;
 
     if(!validator.isEmail(emailInput.value)){
-      alert('E-mail inválido');
+      const div = document.createElement('div');
+      div.innerHTML = 'E-mail inválido';
+      div.classList.add('text-danger');
+      emailInput.insertAdjacentElement('afterend', div)
       error = true;
     }
 
     if(passwordInput.value.length < 3 || passwordInput.value.length > 50){
-      alert('Senha precisa ter entre 3 e 50 caracteres');
+      const div = document.createElement('div');
+      div.innerHTML = 'Senha deve conter entre 3 e 50 caracteres';
+      div.classList.add('text-danger');
+      passwordInput.insertAdjacentElement('afterend', div)
       error = true;
     }
 
     if(!error) el.submit();
+    
   }
   
 
