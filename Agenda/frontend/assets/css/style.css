@@ -1,0 +1,9 @@
+.fadeOut {
+  opacity: 0;;
+  transition: 0.5s;
+}
+
+.error {
+  color: red;
+  font-size: 20px;
+}

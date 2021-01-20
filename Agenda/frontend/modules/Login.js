@@ -1,5 +1,3 @@
-import e from 'express';
-import { DocumentProvider } from 'mongoose';
 import validator from 'validator';
 
 export default class Login {
@@ -31,14 +29,20 @@ export default class Login {
       div.classList.add('text-danger');
       emailInput.insertAdjacentElement('afterend', div)
       error = true;
+      setTimeout(function(){
+        document.querySelector('.text-danger').remove();
+      }, 3500);
     }
 
     if(passwordInput.value.length < 3 || passwordInput.value.length > 50){
       const div = document.createElement('div');
       div.innerHTML = 'Senha deve conter entre 3 e 50 caracteres';
       div.classList.add('text-danger');
-      passwordInput.insertAdjacentElement('afterend', div)
+      passwordInput.insertAdjacentElement('afterend', div);
       error = true;
+      setTimeout(function(){
+        document.querySelector('.text-danger').remove();
+      }, 5000);
     }
 
     if(!error) el.submit();
