@@ -13,26 +13,35 @@ Agenda é uma aplicação full stack web construída durante o curso **Javascrip
 A aplicação consiste em um sistema de login, cadastro, armazenamento de informações no banco de dados, sessões, e políticas de validações de formulário, sincronizado com um servidor na nuvem.
 
 ## Layout web
+
 ### Cadastro
 <br/>
-<br/>
+
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="640px"/>
+<br/>
 
 ### Validações
-<br/>
+
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif" width="640px"/>
 <br/>
+
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao.gif" width="640px"/>
-### Login
 <br/>
+
+### Login
+
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif" width="640px"/>
-### Cadastro usuário
 <br/>
+
+### Cadastro usuário
+
+
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif" width="640px"/>
+<br/>
 
 # Tecnologias utilizadas
 ## Back end
