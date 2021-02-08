@@ -14,13 +14,11 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 
 ## Layout web
 
-### Cadastro
 
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="640px"/>
 <br/>
 
-### Validações
 
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif" width="640px"/>
@@ -30,14 +28,10 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao.gif" width="640px"/>
 <br/>
 
-### Login
 
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif" width="640px"/>
 <br/>
-
-### Cadastro usuário
-
 
 <br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif" width="640px"/>
