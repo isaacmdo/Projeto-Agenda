@@ -31,15 +31,15 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 ## Front end
 - HTML / CSS / JS
 - Bootstrap
-- Ejs
 ## Implantação em produção
 - Back end: Google Cloud
-- Front end web: Em breve
 - Banco de dados: MongoDB
 
 # Como executar o projeto
 
-Em breve
+* 1 - Na pasta agenda crie seu arquivo .env para associar o projeto ao seu mongoDB
+* 2 - Bash: `npm i`
+* 3 - Bash: `npm start`
 
 # Autor
 
