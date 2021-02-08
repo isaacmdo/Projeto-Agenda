@@ -47,10 +47,6 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 * 3 - Bash: `npm start`
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 # Autor
