@@ -16,24 +16,20 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="500px"/>
 
-<br/>
 
 
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif" width="500px"/>
 
-<br/>
 
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao.gif" width="500px"/>
 
 
-<br/>
 
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif" width="500px"/>
 
-<br/>
 
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif" width="500px"/>
-<br/>
+
 
 # Tecnologias utilizadas
 ## Back end
