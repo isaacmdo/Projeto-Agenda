@@ -26,8 +26,6 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 
 # Tecnologias utilizadas
 
-<br/>
-
 ## Back end
 - NodeJS
 ## Front end
