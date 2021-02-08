@@ -14,8 +14,6 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 
 ## Layout web
 
-
-<br/>
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="640px"/>
 <br/>
 
