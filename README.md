@@ -32,8 +32,6 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 - HTML / CSS / JS
 - Bootstrap
 
-<br/>
-
 ## Implantação em produção
 - Back end: Google Cloud
 - Banco de dados: MongoDB
@@ -44,8 +42,6 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 * 2 - Bash: `npm i`
 * 3 - Bash: `npm start`
 <br/>
-<br/>
-
 
 # Autor
 
