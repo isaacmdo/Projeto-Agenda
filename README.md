@@ -43,6 +43,7 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 <br/>
 <br/>
 <br/>
+
 # Autor
 
 Isaac Moura de Oliveira
