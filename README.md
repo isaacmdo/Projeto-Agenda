@@ -16,12 +16,12 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 ### Cadastro
 <img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="640px"/>
 ### Validações
-![Web 2](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif)
-![Web 3](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao.gif)
+<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif" width="640px"/>
+<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao.gif" width="640px"/>
 ### Login
-![Web 4](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif)
+<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif" width="640px"/>
 ### Cadastro usuário
-![Web 5](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif)
+<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif" width="640px"/>
 
 # Tecnologias utilizadas
 ## Back end
