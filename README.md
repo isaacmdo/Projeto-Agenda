@@ -19,9 +19,9 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 ![Web 2](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif)
 ![Web 3](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao.gif)
 ### Login
-https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif
+![Web 4](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif)
 ### Cadastro usuário
-![Web 4](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif)
+![Web 5](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif)
 ## Modelo conceitual
 ![Modelo Conceitual](Em breve)
 
