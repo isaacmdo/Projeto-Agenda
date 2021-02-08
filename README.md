@@ -25,11 +25,19 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 
 
 # Tecnologias utilizadas
+
+<br/>
+<br/>
+
 ## Back end
 - NodeJS
 ## Front end
 - HTML / CSS / JS
 - Bootstrap
+
+<br/>
+<br/>
+
 ## Implantação em produção
 - Back end: Google Cloud
 - Banco de dados: MongoDB
