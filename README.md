@@ -22,8 +22,6 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 ![Web 4](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Login.gif)
 ### Cadastro usuário
 ![Web 5](https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro-usuario.gif)
-## Modelo conceitual
-![Modelo Conceitual](Em breve)
 
 # Tecnologias utilizadas
 ## Back end
