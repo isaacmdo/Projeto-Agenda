@@ -14,12 +14,12 @@ A aplicação consiste em um sistema de login, cadastro, armazenamento de inform
 
 ## Layout web
 
-<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Cadastro.gif" width="500px"/>
 
 <br/>
 
 
-<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://github.com/zWeeeeelll/Projeto-Agenda/blob/main/img/Validacao-casdastro%202.gif" width="500px"/>
 
 <br/>
 
